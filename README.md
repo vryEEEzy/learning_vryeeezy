@@ -10,3 +10,5 @@ this is forth line
 this is fifth line
 
 this is sixth line from github vereeezy
+
+this is seventh line
