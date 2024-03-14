@@ -11,4 +11,4 @@ this is fifth line
 
 this is sixth line from github vereeezy
 
-this is seventh line from github vryeeezy
+this is seventh line
